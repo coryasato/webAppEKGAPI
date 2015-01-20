@@ -300,6 +300,7 @@ form input {
 }
 
 .square {
+  border-radius: 500px;
   float:left;
   position: relative;
   width: 30%;
